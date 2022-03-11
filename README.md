@@ -1,71 +1,86 @@
-# crwn-clothing
+![Banner Readme Flag](flag-ui.png)
 
-:dart: An E-commerce app.
-Topics covered will be:
+# 👷🏻 The project
 
-- React Basics
-- React Router (in progress)
-- Redux
-- Redux Saga
-- Asynchronous Redux
-- React Hooks
-- Context API
-- React Suspense + React Lazy
-- Firebase
-- Stripe API
-- Styled-Components
-- GraphQL
-- Apollo
-- PWAs
-- React Performance
-- React Design Patterns
-- Testing with Jest, Enzyme and Snapshot testing
-- React Best Practices
-- Persistance + Session Storage
-- State Normalization
+### crwn-clothing
 
-* more
+This is an E-commerce app in progress
 
-![alt text](crw-clothing.png)
+The main purpose of the app is implement the latest features in React including - React Basics, React Router, Redux, Redux Saga, Asynchronous Redux, React Hooks, Context API, React Suspense + React Lazy, Firebase, Stripe API, Styled-Components, PWAs, React Performance, React Design Patterns, Testing with Jest, Enzyme and Snapshot testing, React Best Practices, Persistance + Session Storage
+State Normalization + more
 
-## Installation and Setup
+# 🤳🏻 General features
 
-### Required settings
+- Menu
+- Sign in / Sign up - with email and password or Google
+- User redirect
+- Shop Page
+- Cart
+- Add multiple items to Cart
 
-- Git (https://git-scm.com/)
-- Node (https://nodejs.org)
-- Npm (https://www.npmjs.com/)
-- Yarn (https://yarnpkg.com/)
+[https://react-crwn-clothing.vercel.app](https://react-crwn-clothing.vercel.app/)
 
-### Cloning the repository
+# 🧑🏻‍💼 Admin features
+
+...
+
+# 🚀 Technologies
+
+These are the technologies used:
+
+- <a  href="https://pt-br.reactjs.org/docs/getting-started.html"  target="_blank">ReactJS</a> <br>
+- <a  href="https://firebase.google.com/"  target="_blank">Firebase</a> <br>
+
+# 💻 Testing the application
+
+To run the project locally you will need to follow some instructions. <br>
+
+It`s necessary <a  href="https://nodejs.org/en/download/"  target="_blank">NodeJS</a> installed on your machine. <br>
+
+You will also need <a  href="https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable"  target="_blank">Yarn</a> ou <a  href="https://www.npmjs.com/"  target="_blank">Npm</a> to install packages. <br>
+
+## Cloning the repository
 
 ```
 git clone https://github.com/carol-lima/react-advanced-ecommerce.git
-cd react-navbar
-npm install or yarn install
 ```
 
-### Available Scripts
+## Install all packages
 
-In the project directory, you can run:
+- Using Npm
 
-```bash
+```
+npm install
+```
+
+- Using o Yarn
+
+```
+yarn install
+```
+
+## Getting Started
+
+- Using Npm
+
+```
+npm start
+```
+
+- Using o Yarn
+
+```
 yarn start
 ```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-```bash
-yarn test
-```
+<div  align="center">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p>☎️<p>  <br>
 
-```bash
-yarn build
-```
+<a  href  =  "mailto:carollima.dev@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<a  display="flex"  text-align="center"  href="https://www.linkedin.com/in/carollimadev/"  target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+
+</div>
