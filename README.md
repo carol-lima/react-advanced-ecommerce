@@ -1,4 +1,4 @@
-![Banner Readme Flag](flag-ui.png)
+![Banner Shop](crw-clothing.png)
 
 # 👷🏻 The project
 
