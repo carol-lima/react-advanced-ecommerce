@@ -18,6 +18,8 @@ State Normalization + more
 - Cart
 - Add multiple items to Cart
 
+[https://react-crwn-clothing.vercel.app](https://react-crwn-clothing.vercel.app/)
+
 # 🧑🏻‍💼 Admin features
 
 ...
